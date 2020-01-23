@@ -2,12 +2,10 @@ Qiime2 script used to process dataset
 
 #!/bin/bash
 
-#This command activates the Qiime2 environment. Depending on the computer and installation, the environment name (in this case, “qiime2-2018.8”) may differ. 
+#This command activates the Qiime2 environment. Depending on the computer and installation, the environment name (in this case, “qiime2-2019.4”) may differ. 
 source activate qiime2-2019.4;
 source tab-qiime;
 #BEFORE DOING ANYTHING ELSE, cd into the folder you will be working in.
-gg='/Volumes/iMacPro_Pegasus/16S_Related_Files/GreenGenes/gg_13_8_99_v4_Qiime2/gg-13-8-99-515-806-nb-classifier.qza';
-sv='/Volumes/iMacPro_Pegasus/16S_Related_Files/Silva/SILVA_132_99_v4_Qiime2/silva-132-99-515-806-nb-classifier.qza';
 
 read -p "Input directory path where FASTQ files are contained (no subdirectories): " directory;
 read -p "Input file path for map file (.txt): " mapfile;
