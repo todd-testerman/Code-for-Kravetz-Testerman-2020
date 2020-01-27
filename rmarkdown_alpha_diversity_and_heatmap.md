@@ -125,7 +125,7 @@ respectively.*
 pheatmap(log10(gentab+1), annotation_row = phyla_frame, annotation_col = NAFLD_frame, angle_col = 315, fontsize_row = 10, fontsize_col = 8, show_colnames = F, border_color = NA)
 ```
 
-![](rmarkdown_for_github_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
+![](https://github.com/todd-testerman/Paper-Commands/blob/master/unnamed-chunk-8-1.png)<!-- -->
 
 *Alphabetize phyla and create annotation for alphabetical Phylum-Genus
 pairs*
