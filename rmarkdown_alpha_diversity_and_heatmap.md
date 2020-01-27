@@ -84,7 +84,7 @@ gentab = apply(otu_table(phy_tax_glom_gen_trimmed_normalize), MARGIN = 2, functi
 pheatmap(gentab)
 ```
 
-![Figure1](link-to-image)
+![Figure1](https://github.com/todd-testerman/Paper-Commands/blob/master/unnamed-chunk-5-1.png)
 
 *Create row
 annotations*
