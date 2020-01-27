@@ -172,7 +172,7 @@ ann_colors = list(
 pheatmap(log10(gentab_reorder_ID_final+1), cluster_rows = FALSE, cluster_cols = FALSE, annotation_row = phyla_frame, annotation_col = NAFLD_frame, angle_col = 315, fontsize_row = 10, fontsize_col = 8, show_colnames = F, gaps_col = 29, border_color = NA)
 ```
 
-![](rmarkdown_for_github_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](https://github.com/todd-testerman/Paper-Commands/blob/master/unnamed-chunk-12-1.png)<!-- -->
 
 ``` r
 sessionInfo()
