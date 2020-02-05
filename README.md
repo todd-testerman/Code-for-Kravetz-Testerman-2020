@@ -1,4 +1,4 @@
-# Paper-Commands
+# Effect of gut microbiota and PNPLA3 rs738409 variant on non-alcoholic fatty liver disease (NAFLD) in obese youth: Commands Used
 
 This repository houses the commands used to generate the data found in *PAPER CITATION*. The two primary documents are:
 
