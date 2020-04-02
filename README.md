@@ -6,4 +6,4 @@ This repository houses the commands used to generate the data found in "Effect o
 
 2. Rmarkdown_alpha_diversity_and_heatmap.md - This shows the commands used for import into phyloseq, calculation of Shannon Index alpha diversity values, and all steps and outputs from the heatmap generation steps. 
 
-3. Supplemental Figure 1 - Heatmap figure referened in paper and showing the overall microbial community structure for each sample used in this study.
+3. Supplemental Figure 1 - Heatmap figure referenced in paper and showing the overall microbial community structure for each sample used in this study.
